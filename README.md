@@ -46,16 +46,17 @@
  <li> حذف الفرع</li>
   </br>
   <p> <b> Chapter 07 </b> </p>
-  </br>
+
  <li> مفهوم الدمج</li>
  <li> الدمج المباشر</li>
  <li> الدمج الحقيقي</li>
+ </br>
   <p> <b> Chapter 08 </b> </p>
  <li> إنشاء وعرض tag</li>
  <li> عرض تفاصيل tag</li>
  <li> حذف tag</li>
   <p> <b> Chapter 09 </b> </p>
-  </br>
+ 
  <li>استنساخ مشروع </li>
  <li> Git Cloning</li>
 <li>الأمر git push</li>
